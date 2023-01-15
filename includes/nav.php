@@ -10,9 +10,9 @@
                     <a class="nav-link" href="/index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Produits</a>
+                    <a class="nav-link" href="/src/product/index.php">Produits</a>
                 </li>
             </ul>
-        </div>
+        </div>  
     </nav>
 </header>
